@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52db747c-daa8-462e-a206-6607939e8e8f" name="Default Changelist" comment="HW3">
-      <change afterPath="$PROJECT_DIR$/HW3/hw3ex6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/hw3ex6.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW3/hw3ex6.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +65,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.hw3ex6">
+  <component name="RunManager" selected="Python.main">
     <configuration name="hw3ex1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="python_introduction" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -88,15 +88,15 @@
       <method v="2" />
     </configuration>
     <configuration name="hw3ex2" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="Python_Introduction" />
+      <module name="python_introduction" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW3" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW3/hw3ex2.py" />
@@ -216,8 +216,8 @@
     <list>
       <item itemvalue="Python.hw3ex1" />
       <item itemvalue="Python.hw3ex2" />
-      <item itemvalue="Python.main" />
       <item itemvalue="Python.hw3ex3" />
+      <item itemvalue="Python.main" />
       <item itemvalue="Python.hw3ex4" />
       <item itemvalue="Python.hw3ex5" />
       <item itemvalue="Python.hw3ex6" />
@@ -349,7 +349,21 @@
       <option name="project" value="LOCAL" />
       <updated>1605607674617</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="HW3">
+      <created>1605609785651</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1605609785651</updated>
+    </task>
+    <task id="LOCAL-00017" summary="HW3">
+      <created>1605609862751</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1605609862751</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -386,42 +400,42 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="477" y="155" key="Github.UntrackedFilesDialog/0.0.1440.900@0.0.1440.900" timestamp="1605518060171" />
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1605609683931">
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1605617990947">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1605609683931" />
-    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1605609683930">
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1605617990947" />
+    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1605617990946">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1605609683930" />
-    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1605609683929">
+    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1605617990946" />
+    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1605617990946">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1605609683929" />
-    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1605609683930">
+    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1605617990946" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1605617990947">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1605609683930" />
-    <state width="1419" height="304" key="GridCell.Tab.1.bottom" timestamp="1605606579279">
+    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1605617990947" />
+    <state width="1419" height="304" key="GridCell.Tab.1.bottom" timestamp="1605609914937">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="304" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1605606579279" />
-    <state width="1419" height="304" key="GridCell.Tab.1.center" timestamp="1605606579276">
+    <state width="1419" height="304" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1605609914937" />
+    <state width="1419" height="304" key="GridCell.Tab.1.center" timestamp="1605609914937">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="304" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1605606579276" />
-    <state width="1419" height="304" key="GridCell.Tab.1.left" timestamp="1605606579273">
+    <state width="1419" height="304" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1605609914937" />
+    <state width="1419" height="304" key="GridCell.Tab.1.left" timestamp="1605609914936">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="304" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1605606579273" />
-    <state width="1419" height="304" key="GridCell.Tab.1.right" timestamp="1605606579278">
+    <state width="1419" height="304" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1605609914936" />
+    <state width="1419" height="304" key="GridCell.Tab.1.right" timestamp="1605609914937">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="304" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1605606579278" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1605607679116">
+    <state width="1419" height="304" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1605609914937" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1605609877058">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1605607679116" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1605609877058" />
     <state x="465" y="143" width="544" height="614" key="svn.repositoryBrowser" timestamp="1605517977102">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
