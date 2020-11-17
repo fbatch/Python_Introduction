@@ -8,4 +8,4 @@ def my_func(x, y):
     else:
         print('Error, incorrect parameters entered!')
 
-my_func(-6, -3)
+my_func(3, -4)
