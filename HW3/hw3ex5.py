@@ -20,5 +20,3 @@ def cool_function():
             sub_sum = sum(c)
         total_sum += sub_sum
         print(f'Промежуточный результат: {sub_sum}, Общая сумма: {total_sum}')
-
-cool_function()
