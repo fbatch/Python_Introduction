@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52db747c-daa8-462e-a206-6607939e8e8f" name="Default Changelist" comment="hw3ex4 done">
+    <list default="true" id="52db747c-daa8-462e-a206-6607939e8e8f" name="Default Changelist" comment="HW3">
+      <change afterPath="$PROJECT_DIR$/HW3/hw3ex6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW3/hw3ex5.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW3/hw3ex5.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +65,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.hw3ex6">
     <configuration name="hw3ex1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="python_introduction" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -171,6 +171,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="hw3ex6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_introduction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW3/hw3ex6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="python_introduction" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -199,9 +220,11 @@
       <item itemvalue="Python.hw3ex3" />
       <item itemvalue="Python.hw3ex4" />
       <item itemvalue="Python.hw3ex5" />
+      <item itemvalue="Python.hw3ex6" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.hw3ex6" />
         <item itemvalue="Python.hw3ex5" />
         <item itemvalue="Python.hw3ex4" />
         <item itemvalue="Python.hw3ex3" />
@@ -284,7 +307,49 @@
       <option name="project" value="LOCAL" />
       <updated>1605604038214</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="hw3ex5">
+      <created>1605607269262</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1605607269263</updated>
+    </task>
+    <task id="LOCAL-00011" summary="hw3ex5">
+      <created>1605607304264</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1605607304264</updated>
+    </task>
+    <task id="LOCAL-00012" summary="hw3ex5">
+      <created>1605607380854</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1605607380854</updated>
+    </task>
+    <task id="LOCAL-00013" summary="HW3">
+      <created>1605607427015</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1605607427015</updated>
+    </task>
+    <task id="LOCAL-00014" summary="HW3">
+      <created>1605607567322</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1605607567322</updated>
+    </task>
+    <task id="LOCAL-00015" summary="HW3">
+      <created>1605607674617</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1605607674617</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -302,10 +367,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hello" />
     <MESSAGE value="hey" />
-    <MESSAGE value="HW3" />
     <MESSAGE value="hw3ex1 done" />
     <MESSAGE value="hw3ex4 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="hw3ex4 done" />
+    <MESSAGE value="hw3ex5" />
+    <MESSAGE value="HW3" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605602230680">
@@ -320,22 +386,22 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="477" y="155" key="Github.UntrackedFilesDialog/0.0.1440.900@0.0.1440.900" timestamp="1605518060171" />
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1605607104770">
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1605609683931">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1605607104770" />
-    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1605607104769">
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1605609683931" />
+    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1605609683930">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1605607104769" />
-    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1605607104768">
+    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1605609683930" />
+    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1605609683929">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1605607104768" />
-    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1605607104769">
+    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1605609683929" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1605609683930">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1605607104769" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1605609683930" />
     <state width="1419" height="304" key="GridCell.Tab.1.bottom" timestamp="1605606579279">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -352,10 +418,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1419" height="304" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1605606579278" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1605604065439">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1605607679116">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1605604065439" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1605607679116" />
     <state x="465" y="143" width="544" height="614" key="svn.repositoryBrowser" timestamp="1605517977102">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
