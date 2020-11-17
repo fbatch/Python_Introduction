@@ -15,5 +15,3 @@ def title_pro_self_made():
                 word_1 = word
         a.append(word_1)
     print(' '.join(a))
-
-title_pro_self_made()
