@@ -4,5 +4,3 @@ def devision(a, b):
         print(result)
     except ZeroDivisionError:
         print('Error!')
-
-devision(3, 1)
