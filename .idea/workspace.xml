@@ -19,8 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52db747c-daa8-462e-a206-6607939e8e8f" name="Default Changelist" comment="hw3ex1 done">
-      <change beforePath="$PROJECT_DIR$/HW3/hw3ex1.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW3/hw3ex1.py" afterDir="false" />
+    <list default="true" id="52db747c-daa8-462e-a206-6607939e8e8f" name="Default Changelist" comment="HW3">
+      <change afterPath="$PROJECT_DIR$/HW3/hw3ex1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +54,6 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
@@ -61,17 +61,17 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.hw3ex1">
+  <component name="RunManager" selected="Python.main">
     <configuration name="hw3ex1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="Python_Introduction" />
+      <module name="python_introduction" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW3" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW3/hw3ex1.py" />
@@ -104,7 +104,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hw3ex3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="hw3ex3" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Python_Introduction" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -126,15 +126,15 @@
       <method v="2" />
     </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="Python_Introduction" />
+      <module name="python_introduction" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
@@ -146,9 +146,14 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.hw3ex1" />
+      <item itemvalue="Python.hw3ex2" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.hw3ex3" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.hw3ex3" />
         <item itemvalue="Python.hw3ex3" />
         <item itemvalue="Python.hw3ex2" />
       </list>
@@ -194,7 +199,21 @@
       <option name="project" value="LOCAL" />
       <updated>1605595434345</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="HW3">
+      <created>1605602067514</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1605602067514</updated>
+    </task>
+    <task id="LOCAL-00006" summary="HW3">
+      <created>1605602125035</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1605602125035</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -213,9 +232,14 @@
     <MESSAGE value="hello" />
     <MESSAGE value="hey" />
     <MESSAGE value="hw3ex1 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="hw3ex1 done" />
+    <MESSAGE value="HW3" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605602230680">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1605602230680" />
     <state x="556" y="354" key="Github.ShareDialog" timestamp="1605518053258">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -240,10 +264,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1605601934799" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1605595454195">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1605602135713">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1605595454195" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1605602135713" />
     <state x="465" y="143" width="544" height="614" key="svn.repositoryBrowser" timestamp="1605517977102">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
