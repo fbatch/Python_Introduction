@@ -5,4 +5,5 @@ def devision(a, b):
     except ZeroDivisionError:
         print('Error!')
 
-devision(5, 0)
+#devision(5, 3)
+#devision(3, 0)

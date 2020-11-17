@@ -19,16 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52db747c-daa8-462e-a206-6607939e8e8f" name="Default Changelist" comment="hey">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Python_Introduction.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW3/hw3ex1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW3/hello.py" beforeDir="false" />
+    <list default="true" id="52db747c-daa8-462e-a206-6607939e8e8f" name="Default Changelist" comment="hw3ex1 done">
+      <change beforePath="$PROJECT_DIR$/HW3/hw3ex1.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW3/hw3ex1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +136,21 @@
       <option name="project" value="LOCAL" />
       <updated>1605521182404</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="hw3ex1 done">
+      <created>1605595186878</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605595186878</updated>
+    </task>
+    <task id="LOCAL-00004" summary="hw3ex1 done">
+      <created>1605595434345</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605595434345</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -162,7 +168,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hello" />
     <MESSAGE value="hey" />
-    <option name="LAST_COMMIT_MESSAGE" value="hey" />
+    <MESSAGE value="hw3ex1 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw3ex1 done" />
   </component>
   <component name="WindowStateProjectService">
     <state x="556" y="354" key="Github.ShareDialog" timestamp="1605518053258">
@@ -173,26 +180,26 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="477" y="155" key="Github.UntrackedFilesDialog/0.0.1440.900@0.0.1440.900" timestamp="1605518060171" />
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1605595157788">
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1605595476321">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1605595157788" />
-    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1605595157786">
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1605595476321" />
+    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1605595476320">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1605595157786" />
-    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1605595157786">
+    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1605595476320" />
+    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1605595476319">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1605595157786" />
-    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1605595157787">
+    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1605595476319" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1605595476320">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1605595157787" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1605521192076">
+    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1605595476320" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1605595454195">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1605521192076" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1605595454195" />
     <state x="465" y="143" width="544" height="614" key="svn.repositoryBrowser" timestamp="1605517977102">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
