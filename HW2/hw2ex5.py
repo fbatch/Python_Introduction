@@ -1,4 +1,4 @@
-# Exercise 5
+# Exercise 5_5
 my_list = [7, 5, 3, 3, 2]
 a = int(input('Введите число: '))
 for i in range(len(my_list)):

@@ -1,4 +1,4 @@
-#Exercise 3 (list)
+#Exercise 3_3 (list)
 winter = [1, 2, 12]
 spring = [3, 4, 5]
 summer = [6, 7, 8]

@@ -1,4 +1,4 @@
-#Exercise 2
+#Exercise 2_2
 my_list = []
 n = int(input('Сколько элементов будет в вашем списке? '))
 for i in range(n):
