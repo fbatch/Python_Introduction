@@ -7,5 +7,3 @@ def my_func(x, y):
         print(1 / result)
     else:
         print('Error, incorrect parameters entered!')
-
-my_func(3, -4)
