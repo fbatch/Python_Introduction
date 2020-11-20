@@ -19,7 +19,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52db747c-daa8-462e-a206-6607939e8e8f" name="Default Changelist" comment="HW3" />
+    <list default="true" id="52db747c-daa8-462e-a206-6607939e8e8f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/HW4/hw4ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW4/hw4ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW4/hw4ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW4/hw4ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW4/hw4ex5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW4/hw4ex6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW4/hw4ex7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,11 +60,12 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/HW3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/HW4" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/HW4" />
       <recent name="$PROJECT_DIR$/HW3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -126,7 +136,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hw3ex4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="hw4ex3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_introduction" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -134,11 +144,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW3/hw3ex4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW4/hw4ex3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,7 +157,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hw3ex5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="hw4ex4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_introduction" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -155,11 +165,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW3/hw3ex5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW4/hw4ex4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,7 +178,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hw3ex6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="hw4ex5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_introduction" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -176,11 +186,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW3/hw3ex6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW4/hw4ex5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hw4ex6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_introduction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW4/hw4ex6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hw4ex7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_introduction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW4/hw4ex7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -215,17 +267,19 @@
       <item itemvalue="Python.hw3ex2" />
       <item itemvalue="Python.hw3ex3" />
       <item itemvalue="Python.main" />
-      <item itemvalue="Python.hw3ex4" />
-      <item itemvalue="Python.hw3ex5" />
-      <item itemvalue="Python.hw3ex6" />
+      <item itemvalue="Python.hw4ex3" />
+      <item itemvalue="Python.hw4ex4" />
+      <item itemvalue="Python.hw4ex5" />
+      <item itemvalue="Python.hw4ex6" />
+      <item itemvalue="Python.hw4ex7" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.hw3ex6" />
-        <item itemvalue="Python.hw3ex5" />
-        <item itemvalue="Python.hw3ex4" />
-        <item itemvalue="Python.hw3ex3" />
-        <item itemvalue="Python.hw3ex2" />
+        <item itemvalue="Python.hw4ex7" />
+        <item itemvalue="Python.hw4ex6" />
+        <item itemvalue="Python.hw4ex5" />
+        <item itemvalue="Python.hw4ex4" />
+        <item itemvalue="Python.hw4ex3" />
       </list>
     </recent_temporary>
   </component>
@@ -367,7 +421,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605618235608</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="HW3">
+      <created>1605619246025</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1605619246025</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -392,10 +453,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="HW3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605602230680">
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605874405698">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1605602230680" />
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1605874405698" />
+    <state x="444" y="259" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605862962911">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="444" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1605862962911" />
     <state x="556" y="354" key="Github.ShareDialog" timestamp="1605518053258">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -404,25 +469,25 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="477" y="155" key="Github.UntrackedFilesDialog/0.0.1440.900@0.0.1440.900" timestamp="1605518060171" />
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1605618516017">
-      <screen x="0" y="23" width="1440" height="800" />
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1605874361363">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1605617990947" />
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1605874361363" />
     <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.23.1440.800@0.23.1440.800" timestamp="1605618516017" />
-    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1605618516017">
-      <screen x="0" y="23" width="1440" height="800" />
+    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1605874361362">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1605617990946" />
+    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1605874361362" />
     <state width="1419" height="245" key="GridCell.Tab.0.center/0.23.1440.800@0.23.1440.800" timestamp="1605618516017" />
-    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1605618516016">
-      <screen x="0" y="23" width="1440" height="800" />
+    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1605874361361">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1605617990946" />
+    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1605874361361" />
     <state width="1419" height="245" key="GridCell.Tab.0.left/0.23.1440.800@0.23.1440.800" timestamp="1605618516016" />
-    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1605618516017">
-      <screen x="0" y="23" width="1440" height="800" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1605874361362">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1605617990947" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1605874361362" />
     <state width="1419" height="245" key="GridCell.Tab.0.right/0.23.1440.800@0.23.1440.800" timestamp="1605618516017" />
     <state width="1419" height="304" key="GridCell.Tab.1.bottom" timestamp="1605609914937">
       <screen x="0" y="0" width="1440" height="900" />
@@ -440,10 +505,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1419" height="304" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1605609914937" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1605618241517">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1605874537052">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1605618241517" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1605874537052" />
     <state x="465" y="143" width="544" height="614" key="svn.repositoryBrowser" timestamp="1605517977102">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
