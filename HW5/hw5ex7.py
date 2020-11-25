@@ -20,4 +20,4 @@ print(lst)
 ex_7.close()
 
 with open("text_7.json", "w", encoding='utf-8') as text_7:
-    json.dump(lst, text_7)
+    json.dump(lst, text_7, ensure_ascii=False)
