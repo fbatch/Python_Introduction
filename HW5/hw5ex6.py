@@ -16,3 +16,4 @@ for line in content:
 #   print(f'{line.split()[0]} {a}')
     a = 0
 print(my_dict)
+ex_6.close()
