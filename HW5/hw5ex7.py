@@ -19,5 +19,5 @@ my_dict2['average_profit'] = "{:.0f}".format(average_profit)
 print(lst)
 ex_7.close()
 
-with open("text_7.json", "w", encoding='ascii') as text_7:
+with open("text_7.json", "w", encoding='utf-8') as text_7:
     json.dump(lst, text_7)
