@@ -25,12 +25,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52db747c-daa8-462e-a206-6607939e8e8f" name="Default Changelist" comment="HW5">
-      <change afterPath="$PROJECT_DIR$/HW6/hw6ex1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW6/hw6ex2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW6/hw6ex3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW6/hw6ex4.py" afterDir="false" />
+    <list default="true" id="52db747c-daa8-462e-a206-6607939e8e8f" name="Default Changelist" comment="HW6">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW6/hw6ex4.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW6/hw6ex4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +74,7 @@
       <recent name="$PROJECT_DIR$/HW3" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.hw6ex1">
+  <component name="RunManager" selected="Python.hw6ex3">
     <configuration name="hw3ex1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="python_introduction" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -280,10 +277,10 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.hw6ex1" />
-        <item itemvalue="Python.hw6ex4" />
         <item itemvalue="Python.hw6ex3" />
         <item itemvalue="Python.hw6ex2" />
+        <item itemvalue="Python.hw6ex1" />
+        <item itemvalue="Python.hw6ex4" />
         <item itemvalue="Python.hw5ex7" />
       </list>
     </recent_temporary>
@@ -510,7 +507,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606303843364</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="HW6">
+      <created>1606474319458</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1606474319458</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -547,7 +551,8 @@
     <MESSAGE value="HW3" />
     <MESSAGE value="HW4" />
     <MESSAGE value="HW5" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW5" />
+    <MESSAGE value="HW6" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW6" />
   </component>
   <component name="WindowStateProjectService">
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605874405698">
@@ -566,28 +571,28 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="477" y="155" key="Github.UntrackedFilesDialog/0.0.1440.900@0.0.1440.900" timestamp="1605518060171" />
-    <state width="1419" height="393" key="GridCell.Tab.0.bottom" timestamp="1606473991033">
+    <state width="1419" height="202" key="GridCell.Tab.0.bottom" timestamp="1606474734002">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="393" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1606473991033" />
+    <state width="1419" height="202" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1606474734002" />
     <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.23.1440.800@0.23.1440.800" timestamp="1605618516017" />
     <state width="887" height="245" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1606209743074" />
-    <state width="1419" height="393" key="GridCell.Tab.0.center" timestamp="1606473991032">
+    <state width="1419" height="202" key="GridCell.Tab.0.center" timestamp="1606474734001">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="393" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1606473991032" />
+    <state width="1419" height="202" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1606474734001" />
     <state width="1419" height="245" key="GridCell.Tab.0.center/0.23.1440.800@0.23.1440.800" timestamp="1605618516017" />
     <state width="887" height="245" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1606209743073" />
-    <state width="1419" height="393" key="GridCell.Tab.0.left" timestamp="1606473991031">
+    <state width="1419" height="202" key="GridCell.Tab.0.left" timestamp="1606474734000">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="393" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1606473991031" />
+    <state width="1419" height="202" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1606474734000" />
     <state width="1419" height="245" key="GridCell.Tab.0.left/0.23.1440.800@0.23.1440.800" timestamp="1605618516016" />
     <state width="887" height="245" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1606209743072" />
-    <state width="1419" height="393" key="GridCell.Tab.0.right" timestamp="1606473991032">
+    <state width="1419" height="202" key="GridCell.Tab.0.right" timestamp="1606474734002">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="393" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1606473991032" />
+    <state width="1419" height="202" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1606474734002" />
     <state width="1419" height="245" key="GridCell.Tab.0.right/0.23.1440.800@0.23.1440.800" timestamp="1605618516017" />
     <state width="887" height="245" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1606209743073" />
     <state width="1419" height="304" key="GridCell.Tab.1.bottom" timestamp="1605609914937">
@@ -610,10 +615,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="221" y="178" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1606467904468" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1606303854183">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1606474324685">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1606303854183" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1606474324685" />
     <state x="465" y="143" width="544" height="614" key="svn.repositoryBrowser" timestamp="1605517977102">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
