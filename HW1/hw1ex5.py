@@ -1,4 +1,3 @@
-# №5 Выручка, прибыль ...
 earnings = int(input('Укажите выручку компании:\n'))
 costs = int(input('Укажите издержки компании:\n'))
 if earnings > costs:
