@@ -26,26 +26,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52db747c-daa8-462e-a206-6607939e8e8f" name="Default Changelist" comment="HW5">
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_11_2020,_20_19_[Default_Changelist]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_11_2020__20_19__Default_Changelist_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW5/hw5ex2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW5/hw5ex3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW5/hw5ex4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW5/hw5ex5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW5/hw5ex6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW5/hw5ex7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW5/text_1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW5/text_2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW5/text_3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW5/text_4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW5/text_6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW5/text_7.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW5/text_7.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python_introduction.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_introduction.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_17_11_2020,_11_30_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW6/hw6ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW6/hw6ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW6/hw6ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW6/hw6ex4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW5/hw5ex1.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW5/hw5ex1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW5/my_file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_11_2020,_20_19_[Default_Changelist]1/shelved.patch" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +65,7 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/HW4" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -92,7 +77,7 @@
       <recent name="$PROJECT_DIR$/HW3" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.hw5ex6">
+  <component name="RunManager" selected="Python.hw6ex1">
     <configuration name="hw3ex1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="python_introduction" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -156,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hw5ex1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="hw5ex7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_introduction" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -168,7 +153,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW5/hw5ex1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW5/hw5ex7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,7 +162,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hw5ex3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="hw6ex1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_introduction" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -185,11 +170,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW5/hw5ex3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW6/hw6ex1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -198,7 +183,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hw5ex4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="hw6ex2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_introduction" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -206,11 +191,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW5/hw5ex4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW6/hw6ex2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -219,7 +204,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hw5ex5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="hw6ex3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_introduction" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -227,11 +212,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW5/hw5ex5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW6/hw6ex3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -240,7 +225,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hw5ex6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="hw6ex4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_introduction" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -248,11 +233,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW5/hw5ex6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW6/hw6ex4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -286,20 +271,20 @@
       <item itemvalue="Python.hw3ex1" />
       <item itemvalue="Python.hw3ex2" />
       <item itemvalue="Python.hw3ex3" />
-      <item itemvalue="Python.hw5ex1" />
-      <item itemvalue="Python.hw5ex3" />
-      <item itemvalue="Python.hw5ex4" />
-      <item itemvalue="Python.hw5ex5" />
-      <item itemvalue="Python.hw5ex6" />
       <item itemvalue="Python.main" />
+      <item itemvalue="Python.hw5ex7" />
+      <item itemvalue="Python.hw6ex1" />
+      <item itemvalue="Python.hw6ex2" />
+      <item itemvalue="Python.hw6ex3" />
+      <item itemvalue="Python.hw6ex4" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.hw5ex6" />
-        <item itemvalue="Python.hw5ex5" />
-        <item itemvalue="Python.hw5ex1" />
-        <item itemvalue="Python.hw5ex4" />
-        <item itemvalue="Python.hw5ex3" />
+        <item itemvalue="Python.hw6ex1" />
+        <item itemvalue="Python.hw6ex4" />
+        <item itemvalue="Python.hw6ex3" />
+        <item itemvalue="Python.hw6ex2" />
+        <item itemvalue="Python.hw5ex7" />
       </list>
     </recent_temporary>
   </component>
@@ -469,7 +454,63 @@
       <option name="project" value="LOCAL" />
       <updated>1606211156419</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="HW5">
+      <created>1606221154238</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1606221154238</updated>
+    </task>
+    <task id="LOCAL-00024" summary="HW5">
+      <created>1606221244940</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1606221244940</updated>
+    </task>
+    <task id="LOCAL-00025" summary="HW5">
+      <created>1606244389021</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1606244389021</updated>
+    </task>
+    <task id="LOCAL-00026" summary="HW5">
+      <created>1606291516522</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1606291516522</updated>
+    </task>
+    <task id="LOCAL-00027" summary="HW5">
+      <created>1606298066203</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1606298066203</updated>
+    </task>
+    <task id="LOCAL-00028" summary="HW5">
+      <created>1606303148625</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1606303148625</updated>
+    </task>
+    <task id="LOCAL-00029" summary="HW5">
+      <created>1606303477503</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1606303477503</updated>
+    </task>
+    <task id="LOCAL-00030" summary="HW5">
+      <created>1606303843364</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1606303843364</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -525,28 +566,28 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="477" y="155" key="Github.UntrackedFilesDialog/0.0.1440.900@0.0.1440.900" timestamp="1605518060171" />
-    <state width="693" height="322" key="GridCell.Tab.0.bottom" timestamp="1606221098364">
+    <state width="1419" height="393" key="GridCell.Tab.0.bottom" timestamp="1606473991033">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="693" height="322" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1606221098364" />
+    <state width="1419" height="393" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1606473991033" />
     <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.23.1440.800@0.23.1440.800" timestamp="1605618516017" />
     <state width="887" height="245" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1606209743074" />
-    <state width="693" height="322" key="GridCell.Tab.0.center" timestamp="1606221098363">
+    <state width="1419" height="393" key="GridCell.Tab.0.center" timestamp="1606473991032">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="693" height="322" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1606221098363" />
+    <state width="1419" height="393" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1606473991032" />
     <state width="1419" height="245" key="GridCell.Tab.0.center/0.23.1440.800@0.23.1440.800" timestamp="1605618516017" />
     <state width="887" height="245" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1606209743073" />
-    <state width="693" height="322" key="GridCell.Tab.0.left" timestamp="1606221098362">
+    <state width="1419" height="393" key="GridCell.Tab.0.left" timestamp="1606473991031">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="693" height="322" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1606221098362" />
+    <state width="1419" height="393" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1606473991031" />
     <state width="1419" height="245" key="GridCell.Tab.0.left/0.23.1440.800@0.23.1440.800" timestamp="1605618516016" />
     <state width="887" height="245" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1606209743072" />
-    <state width="693" height="322" key="GridCell.Tab.0.right" timestamp="1606221098363">
+    <state width="1419" height="393" key="GridCell.Tab.0.right" timestamp="1606473991032">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="693" height="322" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1606221098363" />
+    <state width="1419" height="393" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1606473991032" />
     <state width="1419" height="245" key="GridCell.Tab.0.right/0.23.1440.800@0.23.1440.800" timestamp="1605618516017" />
     <state width="887" height="245" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1606209743073" />
     <state width="1419" height="304" key="GridCell.Tab.1.bottom" timestamp="1605609914937">
@@ -565,10 +606,14 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1419" height="304" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1605609914937" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1606210617367">
+    <state x="221" y="178" key="SettingsEditor" timestamp="1606467904468">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1606210617367" />
+    <state x="221" y="178" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1606467904468" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1606303854183">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1606303854183" />
     <state x="465" y="143" width="544" height="614" key="svn.repositoryBrowser" timestamp="1605517977102">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
