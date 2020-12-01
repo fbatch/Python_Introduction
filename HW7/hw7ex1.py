@@ -16,8 +16,7 @@ class Matrix:
         for i in range(raw):
             for j in range(col):
                 self.x[i][j] = self.x[i][j] + matrix_2.x[i][j]
-            result = self.x
-        return Matrix(result)
+        return Matrix(self.x)
 
 
 m_1 = Matrix([[1, 2, 7],
@@ -29,5 +28,7 @@ m_2 = Matrix([[1, 2, 7],
               [1, 5, 4],
               [5, 6, 3],
               [9, 2, 8]])
+print(m_1)
+print(m_2)
 
 print(m_1.__add__(m_2))

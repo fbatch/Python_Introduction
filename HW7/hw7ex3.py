@@ -23,10 +23,10 @@ class Cell:
             a = '*' * num_cells_per_row
             print(a)
             self.num_cells -= num_cells_per_row
-        print('*' * (self.num_cells))
+        print('*' * self.num_cells)
 
 
-cell_1 = Cell(11)
+cell_1 = Cell(15)
 cell_2 = Cell(4)
 print(cell_1 + cell_2)
 print(cell_1 - cell_2)
