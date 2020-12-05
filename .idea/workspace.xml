@@ -25,12 +25,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52db747c-daa8-462e-a206-6607939e8e8f" name="Default Changelist" comment="HW7">
-      <change afterPath="$PROJECT_DIR$/HW8/hw8ex1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW8/hw8ex2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW8/hw8ex3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW8/hw8ex4.py" afterDir="false" />
+    <list default="true" id="52db747c-daa8-462e-a206-6607939e8e8f" name="Default Changelist" comment="HW8">
+      <change afterPath="$PROJECT_DIR$/HW8/hw8ex_4_5_6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW8/hw8ex4.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW8/hw8ex7.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +75,7 @@
       <recent name="$PROJECT_DIR$/HW3" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.hw8ex1">
+  <component name="RunManager" selected="Python.hw8ex7">
     <configuration name="hw3ex1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="python_introduction" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -133,27 +131,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW3/hw3ex3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="hw7ex3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_introduction" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW7" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW7/hw7ex3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -225,7 +202,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hw8ex4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="hw8ex7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_introduction" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -237,7 +214,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW8/hw8ex4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW8/hw8ex7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hw8ex_4_5_6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_introduction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW8" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW8/hw8ex_4_5_6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -272,19 +270,19 @@
       <item itemvalue="Python.hw3ex2" />
       <item itemvalue="Python.hw3ex3" />
       <item itemvalue="Python.main" />
-      <item itemvalue="Python.hw7ex3" />
       <item itemvalue="Python.hw8ex1" />
       <item itemvalue="Python.hw8ex2" />
       <item itemvalue="Python.hw8ex3" />
-      <item itemvalue="Python.hw8ex4" />
+      <item itemvalue="Python.hw8ex_4_5_6" />
+      <item itemvalue="Python.hw8ex7" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.hw8ex7" />
         <item itemvalue="Python.hw8ex1" />
         <item itemvalue="Python.hw8ex3" />
-        <item itemvalue="Python.hw8ex4" />
+        <item itemvalue="Python.hw8ex_4_5_6" />
         <item itemvalue="Python.hw8ex2" />
-        <item itemvalue="Python.hw7ex3" />
       </list>
     </recent_temporary>
   </component>
@@ -573,7 +571,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606835191020</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="HW8">
+      <created>1607179779185</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1607179779185</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -614,7 +619,8 @@
     <MESSAGE value="HW2" />
     <MESSAGE value="HW6" />
     <MESSAGE value="HW7" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW7" />
+    <MESSAGE value="HW8" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW8" />
   </component>
   <component name="WindowStateProjectService">
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605874405698">
@@ -633,28 +639,28 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="477" y="155" key="Github.UntrackedFilesDialog/0.0.1440.900@0.0.1440.900" timestamp="1605518060171" />
-    <state width="907" height="210" key="GridCell.Tab.0.bottom" timestamp="1607179754808">
+    <state width="1419" height="210" key="GridCell.Tab.0.bottom" timestamp="1607198023560">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="907" height="210" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1607179754808" />
+    <state width="1419" height="210" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1607198023560" />
     <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.23.1440.800@0.23.1440.800" timestamp="1605618516017" />
     <state width="887" height="245" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1606209743074" />
-    <state width="907" height="210" key="GridCell.Tab.0.center" timestamp="1607179754807">
+    <state width="1419" height="210" key="GridCell.Tab.0.center" timestamp="1607198023558">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="907" height="210" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1607179754807" />
+    <state width="1419" height="210" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1607198023558" />
     <state width="1419" height="245" key="GridCell.Tab.0.center/0.23.1440.800@0.23.1440.800" timestamp="1605618516017" />
     <state width="887" height="245" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1606209743073" />
-    <state width="907" height="210" key="GridCell.Tab.0.left" timestamp="1607179754806">
+    <state width="1419" height="210" key="GridCell.Tab.0.left" timestamp="1607198023558">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="907" height="210" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1607179754806" />
+    <state width="1419" height="210" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1607198023558" />
     <state width="1419" height="245" key="GridCell.Tab.0.left/0.23.1440.800@0.23.1440.800" timestamp="1605618516016" />
     <state width="887" height="245" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1606209743072" />
-    <state width="907" height="210" key="GridCell.Tab.0.right" timestamp="1607179754807">
+    <state width="1419" height="210" key="GridCell.Tab.0.right" timestamp="1607198023559">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="907" height="210" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1607179754807" />
+    <state width="1419" height="210" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1607198023559" />
     <state width="1419" height="245" key="GridCell.Tab.0.right/0.23.1440.800@0.23.1440.800" timestamp="1605618516017" />
     <state width="887" height="245" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1606209743073" />
     <state width="1419" height="304" key="GridCell.Tab.1.bottom" timestamp="1605609914937">
@@ -677,10 +683,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="221" y="178" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1606467904468" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1606835195350">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1607179782232">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1606835195350" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1607179782232" />
     <state x="465" y="143" width="544" height="614" key="svn.repositoryBrowser" timestamp="1605517977102">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
