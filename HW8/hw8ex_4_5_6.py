@@ -1,28 +1,44 @@
 class Storage:
     def __init__(self, space=100):  # space - кол-во мест на складе
-        self.space = space
+        self.space = input(f'Сколько свободных мест на складе? ')
+        while True:
+            try:
+                self.space = int(self.space)
+                break
+            except ValueError:
+                print('Введите число!')
+                self.space = input(f'Сколько свободных мест на складе? ')
         self.lst = []
         self.in_marketing = []
         self.in_finance = []
         
     def add_item(self, item, num=1):
-        num = input(f'Сколько элементов {item.name} добавить на склад? ')
-        try:
-            num = int(num)
-        except ValueError:
-            print('Введите число!')
-            num = int(input(f'Сколько элементов {item.name} добавить на склад? '))
+        num = input(f'На складе {self.space} мест(а). Сколько элементов {item.name} добавить на склад? ')
+        while True:
+            try:
+                num = int(num)
+                if num <= self.space:
+                    break
+            except ValueError:
+                print('Введите число!')
+                num = input(f'Сколько элементов {item.name} добавить на склад? ')
+            else:
+                print(f'Введите число, меньшее количества мест на складе ({self.space})!')
+                num = input(f'Сколько элементов {item.name} добавить на склад? ')
         for _ in range(num):
             self.lst.append(item.name)
         self.space -= num
         return f'Список предметов на складе: {self.lst}.'
 
     def remove_item(self, item, num=1):
-        try:
-            num = int(input(f'Сколько элементов {item.name} убрать со склада? '))
-        except ValueError:
-            print('Введите число!')
-            num = int(input(f'Сколько элементов {item.name} убрать со склада? '))
+        num = input(f'Сколько элементов {item.name} убрать со склада? ')
+        while True:
+            try:
+                num = int(num)
+                break
+            except ValueError:
+                print('Введите число!')
+                num = input(f'Сколько элементов {item.name} убрать со склада? ')
         for _ in range(num):
             self.lst.remove(item.name)
         self.space += num
@@ -35,14 +51,25 @@ class Storage:
             return f'Количество предметов {item.name} на складе: {self.lst.count(item.name)}.'
 
     def move_to(self, item, num=1):
-        try:
-            num = int(input(f'Сколько элементов {item.name} перемещаем? '))
-        except ValueError:
-            print('Введите число!')
-            num = int(input(f'Сколько элементов {item.name} перемещаем? '))
+        num = input(f'Сколько элементов {item.name} переместить в отдел? ')
+        while True:
+            try:
+                num = int(num)
+                break
+            except ValueError:
+                print('Введите число!')
+                num = input(f'Сколько элементов {item.name} переместить? ')
         while num > self.lst.count(item.name):
-            num = int(input(f'Доступно всего {self.lst.count(item.name)} {item.name}. Вы указали больше. '
-                            f'Сколько элементов {item.name} перемещаем? '))
+            num = input(f'Доступно всего {self.lst.count(item.name)} {item.name}. Вы указали больше. '
+                            f'Сколько элементов {item.name} переместить? ')
+            while True:
+                try:
+                    num = int(num)
+                    break
+                except ValueError:
+                    print('Введите число!')
+                    num = input(f'Доступно всего {self.lst.count(item.name)} {item.name}. Вы указали больше. '
+                            f'Сколько элементов {item.name} переместить? ')
         a = input(f'Если нужно переместить {item.name} в отдел маркетинга, введите M,'
                   f' если в отдел финансов, введите F: ')
         while a.upper() != 'M' and a.upper() != 'F':
@@ -87,7 +114,7 @@ class Xerox(Equipment):
         self.name = name
 
 
-storage_1 = Storage()
+storage_1 = Storage(3)
 scanner_1 = Scanner(98, 'Great Scanner')
 printer_1 = Printer(45, 'Cool Printer')
 xerox_1 = Xerox(287, 'Super Xerox')
