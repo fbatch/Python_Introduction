@@ -12,7 +12,7 @@ class Storage:
         self.lst = []
         self.in_marketing = []
         self.in_finance = []
-        
+
     def add_item(self, item):
         """Добавление элемента на склад"""
         if self.space == 0:
