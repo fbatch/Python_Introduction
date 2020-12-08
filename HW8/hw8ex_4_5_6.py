@@ -1,14 +1,20 @@
 class Storage:
     """Класс Склад"""
-    def __init__(self):  # space - кол-во мест на складе
-        self.space = input(f'Сколько свободных мест на складе? ')
+    def __init__(self):  # space - number of free places in the warehouse
+        self.space = input(f'How many free places in the warehouse? ')
         while True:
             try:
                 self.space = int(self.space)
-                break
+                if self.space > 0:
+                    break
+                else:
+                    while True:
+                        print('Enter a positive number!')
+                        self.space = input(f'How many free places in the warehouse? ')
+                        break
             except ValueError:
-                print('Введите число!')
-                self.space = input(f'Сколько свободных мест на складе? ')
+                print('Enter number!')
+                self.space = input(f'How many free places in the warehouse? ')
         self.lst = []
         self.in_marketing = []
         self.in_finance = []
@@ -16,90 +22,92 @@ class Storage:
     def add_item(self, item):
         """Добавление элемента на склад"""
         if self.space == 0:
-            print('Увы, на складе нет мест. Чтобы освободить место, воспользуйтесь методом "remove_item".')
+            print('Sorry, no free places available. Use "remove_item" in order to free up space.')
         else:
-            num = input(f'На складе {self.space} мест(а). Сколько элементов {item.name} добавить на склад? ')
+            num = input(f'There are {self.space} free place(s) in the warehouse. '
+                        f'How many {item.name}s do you want to add to the warehouse? ')
             while True:
                 try:
                     num = int(num)
                     if num <= self.space:
                         break
                 except ValueError:
-                    print('Введите число!')
-                    num = input(f'Сколько элементов {item.name} добавить на склад? ')
+                    print('Enter number!')
+                    num = input(f'How many {item.name}s do you want to add to the warehouse? ')
                 else:
-                    print(f'Введите число, меньшее количества мест на складе ({self.space})!')
-                    num = input(f'Сколько элементов {item.name} добавить на склад? ')
+                    print(f'Enter a number, less than the number of free places in the warehouse ({self.space})!')
+                    num = input(f'How many {item.name}s do you want to add to the warehouse? ')
             for _ in range(num):
                 self.lst.append(item.name)
             self.space -= num
-            return f'Список предметов на складе: {self.lst}.'
+            return f'List of items in the warehouse: {self.lst}.'
 
     def remove_item(self, item):
         """Удаление элемента со склада"""
-        num = input(f'Сколько элементов {item.name} убрать со склада? ')
+        num = input(f'How many {item.name}s do you want to remove from the warehouse? ')
         while True:
             try:
                 num = int(num)
                 break
             except ValueError:
-                print('Введите число!')
-                num = input(f'Сколько элементов {item.name} убрать со склада? ')
+                print('Enter number!')
+                num = input(f'How many {item.name}s do you want to remove from the warehouse? ')
         for _ in range(num):
             self.lst.remove(item.name)
         self.space += num
-        return f'Список предметов на складе: {self.lst}.'
+        return f'List of items in the warehouse: {self.lst}.'
 
     def num_items(self, item):
         """Колисество элементов на складе"""
         if item == 'all':
-            print(f'Количество предметов на складе: {len(self.lst)}. Свободных мест на складе: {self.space}.')
+            print(f'Number of items in the warehouse: {len(self.lst)}. '
+                  f'Number of free places in the warehouse: {self.space}.')
         else:
-            print(f'Количество предметов {item.name} на складе: {self.lst.count(item.name)}. '
-                  f'Свободных мест на складе: {self.space}.')
+            print(f'Number of {item.name}s in the warehouse: {self.lst.count(item.name)}. '
+                  f'Number of free places in the warehouse: {self.space}.')
 
     def list_items(self):
         """Список всех элементов на складе"""
-        print(f'Список предметов на складе: {self.lst}')
+        print(f'List of items in the warehouse: {self.lst}')
 
     def move_to(self, item):
         """Перемещение элемента со склада в отдел по маркетингу или финансам"""
-        num = input(f'Сколько элементов {item.name} переместить в отдел? ')
+        num = input(f'How many {item.name}s do you want to move to a special department? ')
         while True:
             try:
                 num = int(num)
                 break
             except ValueError:
-                print('Введите число!')
-                num = input(f'Сколько элементов {item.name} переместить? ')
+                print('Enter number!')
+                num = input(f'How many {item.name}s do you want to move? ')
         while num > self.lst.count(item.name):
-            num = input(f'Доступно всего {self.lst.count(item.name)} {item.name}. Вы указали больше. '
-                        f'Сколько элементов {item.name} переместить? ')
+            num = input(f'There are only {self.lst.count(item.name)} {item.name}s available. '
+                        f'You entered a greater value. How many {item.name}s do you want to move? ')
             while True:
                 try:
                     num = int(num)
                     break
                 except ValueError:
-                    print('Введите число!')
-                    num = input(f'Доступно всего {self.lst.count(item.name)} {item.name}. Вы указали больше. '
-                                f'Сколько элементов {item.name} переместить? ')
-        a = input(f'Если нужно переместить {item.name} в отдел маркетинга, введите M,'
-                  f' если в отдел финансов, введите F: ')
+                    print('Enter number!')
+                    num = input(f'There are only {self.lst.count(item.name)} {item.name}s available. '
+                                f'You entered a greater value. How many {item.name}s do you want to move? ')
+        a = input(f'If you want to move {item.name}s to the department of marketing, enter M. '
+                  f'\nIf you want to move {item.name}s to the department of finance, enter F: ')
         while a.upper() != 'M' and a.upper() != 'F':
-            a = input(f'Вы ввели недопустимые значения. Если нужно переместить {item.name} в отдел'
-                      f' маркетинга, введите M, если в отдел финансов, введите F: ')
+            a = input(f'You entered invalid values. If you want to move {item.name}s to the department of marketing, '
+                      f'enter M. \nIf you want to move {item.name}s to the department of finance, enter F: ')
         if a.upper() == 'M':
             for _ in range(num):
                 self.in_marketing.append(item.name)
                 self.lst.remove(item.name)
             self.space += num
-            return f'Предметы в отделе маркетинга: {self.in_marketing}.'
+            return f'Elements in the marketing department: {self.in_marketing}.'
         if a.upper() == 'F':
             for _ in range(num):
                 self.in_finance.append(item.name)
                 self.lst.remove(item.name)
             self.space += num
-            return f'Предметы в отделе финансов: {self.in_finance}.'
+            return f'Elements in the finance department: {self.in_finance}.'
 
 
 class Equipment:
@@ -134,9 +142,9 @@ class Xerox(Equipment):
 # Тестирование программы
 
 storage_1 = Storage()
-scanner_1 = Scanner(98, 'Great Scanner')
-printer_1 = Printer(45, 'Cool Printer')
-xerox_1 = Xerox(287, 'Super Xerox')
+scanner_1 = Scanner(98, 'Scanner-X')
+printer_1 = Printer(45, 'Printer-Y')
+xerox_1 = Xerox(287, 'Xerox-Z')
 
 storage_1.add_item(scanner_1)
 storage_1.add_item(printer_1)
