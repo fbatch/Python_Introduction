@@ -157,6 +157,3 @@ print(storage_1.move_to(xerox_1))
 storage_1.list_items()
 storage_1.num_items('all')
 storage_1.num_items(scanner_1)
-
-
-# just checking
